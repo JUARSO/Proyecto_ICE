@@ -34,7 +34,7 @@ def escribir_json_tabla(disntanciaUltrrasonico, nombreArchivoAudio, nombre_archi
     }
 
     if len(datos) > 10:
-        datos = datos[:1]
+        datos = []
 
     datos.append(Nuevodato)
 

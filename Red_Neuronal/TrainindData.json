@@ -1,6 +1,5002 @@
 [
   {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_2.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_3.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_4.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_5.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_6.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_7.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_8.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_9.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_10.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_11.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_12.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_13.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_14.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_15.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_16.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_17.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_18.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_19.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_20.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_21.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_22.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_23.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_24.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_25.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_26.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_27.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_29.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_29.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_29.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_30.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_31.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_32.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_33.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_34.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_35.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_36.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_37.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_38.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_39.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_40.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_41.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_42.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_42.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_43.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_44.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_45.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_46.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_47.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_48.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_49.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_50.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_51.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_52.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_53.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_54.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_55.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_56.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_57.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_58.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_59.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_60.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_61.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_62.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_63.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_64.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_65.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_66.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_67.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_68.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_69.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_70.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_71.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_72.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_73.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_74.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_75.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_76.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_77.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_78.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_79.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_80.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_81.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_82.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_83.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_84.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_85.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_86.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_87.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_88.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_89.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_90.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_91.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_92.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_93.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_94.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_95.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_96.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_97.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_98.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_99.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_100.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_101.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_102.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_103.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_104.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_105.wav"
+  },
+  {
+    "Distancia Ultrasonico": "3",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_106.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_107.wav"
+  },
+  {
+    "Distancia Ultrasonico": "2",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_108.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_109.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_110.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_111.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_112.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_113.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_114.wav"
+  },
+  {
+    "Distancia Ultrasonico": "34",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_115.wav"
+  },
+  {
+    "Distancia Ultrasonico": "34",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_116.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_117.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_118.wav"
+  },
+  {
+    "Distancia Ultrasonico": "34",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_119.wav"
+  },
+  {
+    "Distancia Ultrasonico": "34",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_120.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_121.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_122.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_123.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_124.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_125.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_126.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_127.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_128.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_129.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_130.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_131.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_132.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_133.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_134.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_135.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_136.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_137.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_138.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_139.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_140.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_141.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_142.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_143.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_144.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_145.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_146.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_147.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_148.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_149.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_150.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_151.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_152.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_154.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_154.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_155.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_156.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_157.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_158.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_159.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_160.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_161.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_162.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_163.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_164.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_165.wav"
+  },
+  {
+    "Distancia Ultrasonico": "19",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_166.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_167.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_168.wav"
+  },
+  {
+    "Distancia Ultrasonico": "19",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_169.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_170.wav"
+  },
+  {
+    "Distancia Ultrasonico": "19",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_171.wav"
+  },
+  {
+    "Distancia Ultrasonico": "19",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_172.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_173.wav"
+  },
+  {
+    "Distancia Ultrasonico": "19",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_174.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_175.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_176.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_177.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_178.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_179.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_180.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_181.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_182.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_183.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_184.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_185.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_186.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_187.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_188.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_189.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_190.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_191.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_192.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_193.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_194.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_195.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_196.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_197.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_198.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_199.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_200.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_201.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_202.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_203.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_204.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_205.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_206.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_207.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_208.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_209.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_210.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_211.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_212.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_213.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_214.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_215.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_216.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_217.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_218.wav"
+  },
+  {
+    "Distancia Ultrasonico": "9",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_219.wav"
+  },
+  {
+    "Distancia Ultrasonico": "9",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_220.wav"
+  },
+  {
+    "Distancia Ultrasonico": "9",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_221.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_222.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_223.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_224.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_225.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_226.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_227.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_228.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_229.wav"
+  },
+  {
+    "Distancia Ultrasonico": "9",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_230.wav"
+  },
+  {
+    "Distancia Ultrasonico": "9",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_231.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_232.wav"
+  },
+  {
+    "Distancia Ultrasonico": "9",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_233.wav"
+  },
+  {
+    "Distancia Ultrasonico": "9",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_234.wav"
+  },
+  {
+    "Distancia Ultrasonico": "9",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_235.wav"
+  },
+  {
+    "Distancia Ultrasonico": "9",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_235.wav"
+  },
+  {
+    "Distancia Ultrasonico": "9",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_236.wav"
+  },
+  {
+    "Distancia Ultrasonico": "9",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_237.wav"
+  },
+  {
+    "Distancia Ultrasonico": "9",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_238.wav"
+  },
+  {
+    "Distancia Ultrasonico": "9",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_239.wav"
+  },
+  {
+    "Distancia Ultrasonico": "8",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_240.wav"
+  },
+  {
+    "Distancia Ultrasonico": "8",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_241.wav"
+  },
+  {
+    "Distancia Ultrasonico": "8",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_242.wav"
+  },
+  {
+    "Distancia Ultrasonico": "8",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_243.wav"
+  },
+  {
+    "Distancia Ultrasonico": "8",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_244.wav"
+  },
+  {
+    "Distancia Ultrasonico": "8",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_245.wav"
+  },
+  {
+    "Distancia Ultrasonico": "8",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_246.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_247.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_248.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_249.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_250.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_251.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_252.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_253.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_254.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_255.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_256.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_257.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_258.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_259.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_260.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_261.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_262.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_263.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_264.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_265.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_266.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_267.wav"
+  },
+  {
+    "Distancia Ultrasonico": "4",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_268.wav"
+  },
+  {
+    "Distancia Ultrasonico": "7",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_269.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_270.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_271.wav"
+  },
+  {
+    "Distancia Ultrasonico": "5",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_272.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_273.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_274.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_275.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_276.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_277.wav"
+  },
+  {
+    "Distancia Ultrasonico": "10",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_278.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_279.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_280.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_281.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_281.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_282.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_283.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_284.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_285.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_286.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_287.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_287.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_289.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_289.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_290.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_291.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_292.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_293.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_294.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_296.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_296.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_297.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_298.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_299.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_300.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_301.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_302.wav"
+  },
+  {
+    "Distancia Ultrasonico": "14",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_303.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_304.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_305.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_306.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_307.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_308.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_309.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_310.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_311.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_312.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_313.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_314.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_315.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_316.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_317.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_318.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_319.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_320.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_321.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_322.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_323.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_324.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_325.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_327.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_327.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_328.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_329.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_330.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_331.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_333.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_333.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_334.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_335.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_336.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_337.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_338.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_339.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_340.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_341.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_342.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_343.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_344.wav"
+  },
+  {
+    "Distancia Ultrasonico": "11",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_345.wav"
+  },
+  {
+    "Distancia Ultrasonico": "29",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_346.wav"
+  },
+  {
+    "Distancia Ultrasonico": "28",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_347.wav"
+  },
+  {
+    "Distancia Ultrasonico": "29",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_348.wav"
+  },
+  {
+    "Distancia Ultrasonico": "28",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_349.wav"
+  },
+  {
+    "Distancia Ultrasonico": "29",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_351.wav"
+  },
+  {
+    "Distancia Ultrasonico": "28",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_351.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_352.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_353.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_354.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_355.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_356.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_357.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_358.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_359.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_360.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_361.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_362.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_363.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_364.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_365.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_366.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_367.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_368.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_369.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_370.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_371.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_372.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_373.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_374.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_375.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_376.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_377.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_378.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_379.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_380.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_381.wav"
+  },
+  {
+    "Distancia Ultrasonico": "25",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_382.wav"
+  },
+  {
+    "Distancia Ultrasonico": "25",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_383.wav"
+  },
+  {
+    "Distancia Ultrasonico": "26",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_384.wav"
+  },
+  {
+    "Distancia Ultrasonico": "25",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_385.wav"
+  },
+  {
+    "Distancia Ultrasonico": "25",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_386.wav"
+  },
+  {
+    "Distancia Ultrasonico": "24",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_387.wav"
+  },
+  {
+    "Distancia Ultrasonico": "24",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_388.wav"
+  },
+  {
+    "Distancia Ultrasonico": "25",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_389.wav"
+  },
+  {
+    "Distancia Ultrasonico": "25",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_390.wav"
+  },
+  {
+    "Distancia Ultrasonico": "25",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_391.wav"
+  },
+  {
+    "Distancia Ultrasonico": "25",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_392.wav"
+  },
+  {
+    "Distancia Ultrasonico": "25",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_393.wav"
+  },
+  {
+    "Distancia Ultrasonico": "25",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_394.wav"
+  },
+  {
+    "Distancia Ultrasonico": "25",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_395.wav"
+  },
+  {
+    "Distancia Ultrasonico": "25",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_396.wav"
+  },
+  {
+    "Distancia Ultrasonico": "24",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_397.wav"
+  },
+  {
+    "Distancia Ultrasonico": "24",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_398.wav"
+  },
+  {
+    "Distancia Ultrasonico": "24",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_399.wav"
+  },
+  {
+    "Distancia Ultrasonico": "24",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_400.wav"
+  },
+  {
+    "Distancia Ultrasonico": "24",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_401.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_402.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_403.wav"
+  },
+  {
+    "Distancia Ultrasonico": "24",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_404.wav"
+  },
+  {
+    "Distancia Ultrasonico": "24",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_405.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_406.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_407.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_408.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_409.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_410.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_411.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_412.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_413.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_414.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_415.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_416.wav"
+  },
+  {
+    "Distancia Ultrasonico": "24",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_417.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_418.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_419.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_420.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_421.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_422.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_423.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_424.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_425.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_426.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_427.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_428.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_429.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_430.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_431.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_432.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_433.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_434.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_435.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_436.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_437.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_438.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_439.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_440.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_441.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_442.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_443.wav"
+  },
+  {
+    "Distancia Ultrasonico": "23",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_444.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_445.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_446.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_447.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_448.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_449.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_450.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_451.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_452.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_453.wav"
+  },
+  {
+    "Distancia Ultrasonico": "22",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_454.wav"
+  },
+  {
+    "Distancia Ultrasonico": "20",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_455.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_456.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_457.wav"
+  },
+  {
+    "Distancia Ultrasonico": "20",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_458.wav"
+  },
+  {
+    "Distancia Ultrasonico": "21",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_459.wav"
+  },
+  {
+    "Distancia Ultrasonico": "20",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_460.wav"
+  },
+  {
+    "Distancia Ultrasonico": "20",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_461.wav"
+  },
+  {
+    "Distancia Ultrasonico": "20",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_462.wav"
+  },
+  {
+    "Distancia Ultrasonico": "20",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_463.wav"
+  },
+  {
+    "Distancia Ultrasonico": "20",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_464.wav"
+  },
+  {
+    "Distancia Ultrasonico": "20",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_465.wav"
+  },
+  {
+    "Distancia Ultrasonico": "20",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_467.wav"
+  },
+  {
+    "Distancia Ultrasonico": "20",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_467.wav"
+  },
+  {
+    "Distancia Ultrasonico": "20",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_468.wav"
+  },
+  {
+    "Distancia Ultrasonico": "19",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_469.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_470.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_471.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_472.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_473.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_474.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_475.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_476.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_477.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_478.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_479.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_480.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_481.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_482.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_483.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_484.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_485.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_486.wav"
+  },
+  {
+    "Distancia Ultrasonico": "18",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_487.wav"
+  },
+  {
+    "Distancia Ultrasonico": "17",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_488.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_489.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_490.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_491.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_492.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_493.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_494.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_495.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_496.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_497.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_498.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_499.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_500.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_501.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_502.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_503.wav"
+  },
+  {
+    "Distancia Ultrasonico": "16",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_504.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_505.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_506.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_507.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_508.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_509.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_510.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_511.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_512.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_513.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_514.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_515.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_516.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_517.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_518.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_519.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_520.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_521.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_522.wav"
+  },
+  {
+    "Distancia Ultrasonico": "15",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_523.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_524.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_525.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_526.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_527.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_528.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_529.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_530.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_531.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_532.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_533.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_534.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_535.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_536.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_537.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_538.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_539.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_540.wav"
+  },
+  {
+    "Distancia Ultrasonico": "13",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_541.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_542.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_543.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_544.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_545.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_546.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_547.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_548.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_549.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_550.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_551.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_552.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_553.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_554.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_555.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_556.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_557.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_558.wav"
+  },
+  {
+    "Distancia Ultrasonico": "12",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_559.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_560.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_561.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_562.wav"
+  },
+  {
+    "Distancia Ultrasonico": "30",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_563.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_564.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_565.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_566.wav"
+  },
+  {
+    "Distancia Ultrasonico": "30",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_567.wav"
+  },
+  {
+    "Distancia Ultrasonico": "30",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_568.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_569.wav"
+  },
+  {
+    "Distancia Ultrasonico": "30",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_570.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_571.wav"
+  },
+  {
+    "Distancia Ultrasonico": "29",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_572.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_573.wav"
+  },
+  {
+    "Distancia Ultrasonico": "30",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_574.wav"
+  },
+  {
+    "Distancia Ultrasonico": "30",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_575.wav"
+  },
+  {
+    "Distancia Ultrasonico": "30",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_576.wav"
+  },
+  {
+    "Distancia Ultrasonico": "29",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_577.wav"
+  },
+  {
+    "Distancia Ultrasonico": "28",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_578.wav"
+  },
+  {
+    "Distancia Ultrasonico": "28",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_579.wav"
+  },
+  {
+    "Distancia Ultrasonico": "29",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_580.wav"
+  },
+  {
+    "Distancia Ultrasonico": "29",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_582.wav"
+  },
+  {
+    "Distancia Ultrasonico": "29",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_582.wav"
+  },
+  {
+    "Distancia Ultrasonico": "29",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_583.wav"
+  },
+  {
+    "Distancia Ultrasonico": "28",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_584.wav"
+  },
+  {
+    "Distancia Ultrasonico": "28",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_585.wav"
+  },
+  {
+    "Distancia Ultrasonico": "28",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_586.wav"
+  },
+  {
+    "Distancia Ultrasonico": "29",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_587.wav"
+  },
+  {
+    "Distancia Ultrasonico": "28",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_588.wav"
+  },
+  {
+    "Distancia Ultrasonico": "28",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_589.wav"
+  },
+  {
+    "Distancia Ultrasonico": "28",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_590.wav"
+  },
+  {
+    "Distancia Ultrasonico": "28",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_591.wav"
+  },
+  {
+    "Distancia Ultrasonico": "29",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_592.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_593.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_594.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_595.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_596.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_597.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_598.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_599.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_600.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_601.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_602.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_603.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_604.wav"
+  },
+  {
+    "Distancia Ultrasonico": "27",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_605.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_606.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_607.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_608.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_609.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_610.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_611.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_612.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_613.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_614.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_615.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_616.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_617.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_618.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_619.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_620.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_621.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_622.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_623.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_624.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_625.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_626.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_627.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_628.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_629.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_630.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_631.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_632.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_633.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_634.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_635.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_636.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_637.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_638.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_639.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_640.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_641.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_642.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_643.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_644.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_645.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_646.wav"
+  },
+  {
+    "Distancia Ultrasonico": "47",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_647.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_648.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_649.wav"
+  },
+  {
+    "Distancia Ultrasonico": "47",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_650.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_651.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_652.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_653.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_654.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_655.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_655.wav"
+  },
+  {
+    "Distancia Ultrasonico": "50",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_656.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_657.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_658.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_659.wav"
+  },
+  {
+    "Distancia Ultrasonico": "47",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_660.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_661.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_662.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_663.wav"
+  },
+  {
+    "Distancia Ultrasonico": "47",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_664.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_665.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_666.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_667.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_668.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_669.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_670.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_671.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_672.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_673.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_674.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_675.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_676.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_677.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_678.wav"
+  },
+  {
+    "Distancia Ultrasonico": "51",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_679.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_680.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_681.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_682.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_683.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_684.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_685.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_686.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_687.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_688.wav"
+  },
+  {
+    "Distancia Ultrasonico": "52",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_689.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_690.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_691.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_692.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_693.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_694.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_695.wav"
+  },
+  {
+    "Distancia Ultrasonico": "49",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_696.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_697.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_698.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_699.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_700.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_701.wav"
+  },
+  {
+    "Distancia Ultrasonico": "48",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_702.wav"
+  },
+  {
+    "Distancia Ultrasonico": "46",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_703.wav"
+  },
+  {
+    "Distancia Ultrasonico": "46",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_704.wav"
+  },
+  {
+    "Distancia Ultrasonico": "46",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_705.wav"
+  },
+  {
+    "Distancia Ultrasonico": "46",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_706.wav"
+  },
+  {
+    "Distancia Ultrasonico": "46",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_707.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_708.wav"
+  },
+  {
+    "Distancia Ultrasonico": "47",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_709.wav"
+  },
+  {
+    "Distancia Ultrasonico": "46",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_710.wav"
+  },
+  {
+    "Distancia Ultrasonico": "46",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_711.wav"
+  },
+  {
+    "Distancia Ultrasonico": "47",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_712.wav"
+  },
+  {
+    "Distancia Ultrasonico": "47",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_712.wav"
+  },
+  {
+    "Distancia Ultrasonico": "45",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_713.wav"
+  },
+  {
+    "Distancia Ultrasonico": "45",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_714.wav"
+  },
+  {
+    "Distancia Ultrasonico": "45",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_715.wav"
+  },
+  {
+    "Distancia Ultrasonico": "45",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_716.wav"
+  },
+  {
+    "Distancia Ultrasonico": "45",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_717.wav"
+  },
+  {
+    "Distancia Ultrasonico": "45",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_718.wav"
+  },
+  {
+    "Distancia Ultrasonico": "45",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_719.wav"
+  },
+  {
+    "Distancia Ultrasonico": "45",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_720.wav"
+  },
+  {
+    "Distancia Ultrasonico": "45",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_721.wav"
+  },
+  {
+    "Distancia Ultrasonico": "45",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_722.wav"
+  },
+  {
+    "Distancia Ultrasonico": "45",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_723.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_724.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_725.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_726.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_727.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_728.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_729.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_730.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_731.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_732.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_733.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_734.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_735.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_736.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_737.wav"
+  },
+  {
+    "Distancia Ultrasonico": "44",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_738.wav"
+  },
+  {
+    "Distancia Ultrasonico": "43",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_739.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_740.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_741.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_742.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_743.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_744.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_745.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_746.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_747.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_748.wav"
+  },
+  {
+    "Distancia Ultrasonico": "42",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_749.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_750.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_751.wav"
+  },
+  {
+    "Distancia Ultrasonico": "43",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_752.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_753.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_754.wav"
+  },
+  {
+    "Distancia Ultrasonico": "41",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_754.wav"
+  },
+  {
+    "Distancia Ultrasonico": "43",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_755.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_756.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_757.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_758.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_759.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_760.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_761.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_762.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_763.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_764.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_765.wav"
+  },
+  {
+    "Distancia Ultrasonico": "39",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_766.wav"
+  },
+  {
+    "Distancia Ultrasonico": "39",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_767.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_768.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_769.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_770.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_771.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_772.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_773.wav"
+  },
+  {
+    "Distancia Ultrasonico": "39",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_774.wav"
+  },
+  {
+    "Distancia Ultrasonico": "39",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_775.wav"
+  },
+  {
+    "Distancia Ultrasonico": "40",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_776.wav"
+  },
+  {
+    "Distancia Ultrasonico": "39",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_776.wav"
+  },
+  {
+    "Distancia Ultrasonico": "39",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_777.wav"
+  },
+  {
+    "Distancia Ultrasonico": "37",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_778.wav"
+  },
+  {
+    "Distancia Ultrasonico": "37",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_779.wav"
+  },
+  {
+    "Distancia Ultrasonico": "37",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_780.wav"
+  },
+  {
+    "Distancia Ultrasonico": "37",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_781.wav"
+  },
+  {
+    "Distancia Ultrasonico": "37",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_782.wav"
+  },
+  {
+    "Distancia Ultrasonico": "37",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_783.wav"
+  },
+  {
+    "Distancia Ultrasonico": "37",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_784.wav"
+  },
+  {
+    "Distancia Ultrasonico": "37",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_785.wav"
+  },
+  {
+    "Distancia Ultrasonico": "37",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_786.wav"
+  },
+  {
+    "Distancia Ultrasonico": "36",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_787.wav"
+  },
+  {
+    "Distancia Ultrasonico": "36",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_788.wav"
+  },
+  {
+    "Distancia Ultrasonico": "37",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_789.wav"
+  },
+  {
+    "Distancia Ultrasonico": "36",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_790.wav"
+  },
+  {
+    "Distancia Ultrasonico": "36",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_791.wav"
+  },
+  {
+    "Distancia Ultrasonico": "36",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_792.wav"
+  },
+  {
+    "Distancia Ultrasonico": "37",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_793.wav"
+  },
+  {
+    "Distancia Ultrasonico": "35",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_794.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_795.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_796.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_797.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_798.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_799.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_800.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_801.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_802.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_803.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_804.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_805.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_806.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_807.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_808.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_809.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_810.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_811.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_812.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_812.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_813.wav"
+  },
+  {
+    "Distancia Ultrasonico": "33",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_814.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_815.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_816.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_817.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_818.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_819.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_820.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_821.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_822.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_823.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_824.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_825.wav"
+  },
+  {
+    "Distancia Ultrasonico": "32",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_826.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_826.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_828.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_829.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_830.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_831.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_832.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_833.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_834.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_835.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_836.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_837.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_838.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_839.wav"
+  },
+  {
+    "Distancia Ultrasonico": "31",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_840.wav"
+  },
+  {
+    "Distancia Ultrasonico": "83",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_841.wav"
+  },
+  {
+    "Distancia Ultrasonico": "83",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_842.wav"
+  },
+  {
+    "Distancia Ultrasonico": "83",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_843.wav"
+  },
+  {
+    "Distancia Ultrasonico": "82",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_845.wav"
+  },
+  {
+    "Distancia Ultrasonico": "82",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_845.wav"
+  },
+  {
+    "Distancia Ultrasonico": "82",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_846.wav"
+  },
+  {
+    "Distancia Ultrasonico": "83",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_847.wav"
+  },
+  {
+    "Distancia Ultrasonico": "83",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_848.wav"
+  },
+  {
+    "Distancia Ultrasonico": "82",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_849.wav"
+  },
+  {
+    "Distancia Ultrasonico": "82",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_850.wav"
+  },
+  {
+    "Distancia Ultrasonico": "83",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_851.wav"
+  },
+  {
+    "Distancia Ultrasonico": "83",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_852.wav"
+  },
+  {
+    "Distancia Ultrasonico": "83",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_853.wav"
+  },
+  {
+    "Distancia Ultrasonico": "83",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_853.wav"
+  },
+  {
+    "Distancia Ultrasonico": "82",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_854.wav"
+  },
+  {
+    "Distancia Ultrasonico": "81",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_855.wav"
+  },
+  {
+    "Distancia Ultrasonico": "81",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_856.wav"
+  },
+  {
+    "Distancia Ultrasonico": "82",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_857.wav"
+  },
+  {
+    "Distancia Ultrasonico": "82",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_858.wav"
+  },
+  {
+    "Distancia Ultrasonico": "82",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_859.wav"
+  },
+  {
+    "Distancia Ultrasonico": "82",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_860.wav"
+  },
+  {
+    "Distancia Ultrasonico": "82",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_861.wav"
+  },
+  {
+    "Distancia Ultrasonico": "81",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_862.wav"
+  },
+  {
+    "Distancia Ultrasonico": "82",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_863.wav"
+  },
+  {
+    "Distancia Ultrasonico": "82",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_864.wav"
+  },
+  {
+    "Distancia Ultrasonico": "81",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_865.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_866.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_866.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_867.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_867.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_868.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_869.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_870.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_871.wav"
+  },
+  {
+    "Distancia Ultrasonico": "78",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_872.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_873.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_874.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_875.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_876.wav"
+  },
+  {
+    "Distancia Ultrasonico": "78",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_877.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_878.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_879.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_880.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_881.wav"
+  },
+  {
+    "Distancia Ultrasonico": "79",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_882.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_883.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_884.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_885.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_886.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_887.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_888.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_889.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_890.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_891.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_892.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_893.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_894.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_895.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_896.wav"
+  },
+  {
+    "Distancia Ultrasonico": "77",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_897.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_898.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_899.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_900.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_901.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_902.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_903.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_904.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_905.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_906.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_907.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_908.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_909.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_910.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_911.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_912.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_913.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_914.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_914.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_915.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_916.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_917.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_918.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_919.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_920.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_921.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_922.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_923.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_924.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_925.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_926.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_927.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_928.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_929.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_930.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_931.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_932.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_933.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_934.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_935.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_936.wav"
+  },
+  {
+    "Distancia Ultrasonico": "74",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_937.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_938.wav"
+  },
+  {
+    "Distancia Ultrasonico": "72",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_939.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_940.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_941.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_942.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_943.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_944.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_945.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_946.wav"
+  },
+  {
+    "Distancia Ultrasonico": "72",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_947.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_948.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_949.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_950.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_950.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_951.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_952.wav"
+  },
+  {
+    "Distancia Ultrasonico": "73",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_953.wav"
+  },
+  {
+    "Distancia Ultrasonico": "71",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_954.wav"
+  },
+  {
+    "Distancia Ultrasonico": "71",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_955.wav"
+  },
+  {
+    "Distancia Ultrasonico": "71",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_956.wav"
+  },
+  {
+    "Distancia Ultrasonico": "71",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_957.wav"
+  },
+  {
+    "Distancia Ultrasonico": "71",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_958.wav"
+  },
+  {
+    "Distancia Ultrasonico": "71",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_959.wav"
+  },
+  {
+    "Distancia Ultrasonico": "71",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_960.wav"
+  },
+  {
+    "Distancia Ultrasonico": "71",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_961.wav"
+  },
+  {
+    "Distancia Ultrasonico": "71",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_962.wav"
+  },
+  {
+    "Distancia Ultrasonico": "92",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_963.wav"
+  },
+  {
+    "Distancia Ultrasonico": "71",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_964.wav"
+  },
+  {
+    "Distancia Ultrasonico": "71",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_965.wav"
+  },
+  {
+    "Distancia Ultrasonico": "71",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_966.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_967.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_968.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_969.wav"
+  },
+  {
+    "Distancia Ultrasonico": "70",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_970.wav"
+  },
+  {
+    "Distancia Ultrasonico": "70",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_971.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_972.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_974.wav"
+  },
+  {
+    "Distancia Ultrasonico": "70",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_974.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_975.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_976.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_977.wav"
+  },
+  {
+    "Distancia Ultrasonico": "70",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_978.wav"
+  },
+  {
+    "Distancia Ultrasonico": "70",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_979.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_980.wav"
+  },
+  {
+    "Distancia Ultrasonico": "70",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_981.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_982.wav"
+  },
+  {
+    "Distancia Ultrasonico": "70",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_983.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_984.wav"
+  },
+  {
+    "Distancia Ultrasonico": "70",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_985.wav"
+  },
+  {
+    "Distancia Ultrasonico": "70",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_986.wav"
+  },
+  {
+    "Distancia Ultrasonico": "70",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_986.wav"
+  },
+  {
+    "Distancia Ultrasonico": "66",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_987.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_988.wav"
+  },
+  {
+    "Distancia Ultrasonico": "66",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_988.wav"
+  },
+  {
+    "Distancia Ultrasonico": "66",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_989.wav"
+  },
+  {
+    "Distancia Ultrasonico": "66",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_990.wav"
+  },
+  {
+    "Distancia Ultrasonico": "66",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_991.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_992.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_993.wav"
+  },
+  {
+    "Distancia Ultrasonico": "66",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_994.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_995.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_996.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_997.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_998.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_998.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_999.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1000.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1001.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1002.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1003.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1004.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1005.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1006.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1007.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1008.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1009.wav"
+  },
+  {
+    "Distancia Ultrasonico": "68",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1010.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1011.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1011.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1012.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1012.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1013.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1014.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1015.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1016.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1017.wav"
+  },
+  {
+    "Distancia Ultrasonico": "69",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1018.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1019.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1019.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1020.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1021.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1022.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1023.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1024.wav"
+  },
+  {
+    "Distancia Ultrasonico": "67",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1025.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1026.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1026.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1027.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1028.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1029.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1030.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1031.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1032.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1033.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1034.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1035.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1036.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1037.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1038.wav"
+  },
+  {
+    "Distancia Ultrasonico": "65",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1039.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1040.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1041.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1042.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1042.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1043.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1044.wav"
+  },
+  {
+    "Distancia Ultrasonico": "62",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1045.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1046.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1047.wav"
+  },
+  {
+    "Distancia Ultrasonico": "62",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1048.wav"
+  },
+  {
+    "Distancia Ultrasonico": "62",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1049.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1050.wav"
+  },
+  {
+    "Distancia Ultrasonico": "62",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1051.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1052.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1053.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1054.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1055.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1056.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1057.wav"
+  },
+  {
+    "Distancia Ultrasonico": "62",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1058.wav"
+  },
+  {
+    "Distancia Ultrasonico": "62",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1059.wav"
+  },
+  {
+    "Distancia Ultrasonico": "62",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1060.wav"
+  },
+  {
+    "Distancia Ultrasonico": "63",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1061.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1062.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1063.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1064.wav"
+  },
+  {
+    "Distancia Ultrasonico": "76",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1065.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1066.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1067.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1068.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1069.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1070.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1071.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1072.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1073.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1074.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1075.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1076.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1077.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1078.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1079.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1079.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1080.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1081.wav"
+  },
+  {
+    "Distancia Ultrasonico": "61",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1082.wav"
+  },
+  {
+    "Distancia Ultrasonico": "60",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1083.wav"
+  },
+  {
+    "Distancia Ultrasonico": "59",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1084.wav"
+  },
+  {
+    "Distancia Ultrasonico": "58",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1085.wav"
+  },
+  {
+    "Distancia Ultrasonico": "58",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1085.wav"
+  },
+  {
+    "Distancia Ultrasonico": "58",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1086.wav"
+  },
+  {
+    "Distancia Ultrasonico": "58",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1086.wav"
+  },
+  {
+    "Distancia Ultrasonico": "58",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1087.wav"
+  },
+  {
+    "Distancia Ultrasonico": "58",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1088.wav"
+  },
+  {
+    "Distancia Ultrasonico": "59",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1089.wav"
+  },
+  {
+    "Distancia Ultrasonico": "59",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1089.wav"
+  },
+  {
+    "Distancia Ultrasonico": "59",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1090.wav"
+  },
+  {
+    "Distancia Ultrasonico": "59",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1091.wav"
+  },
+  {
+    "Distancia Ultrasonico": "59",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1092.wav"
+  },
+  {
+    "Distancia Ultrasonico": "59",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1093.wav"
+  },
+  {
+    "Distancia Ultrasonico": "59",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1094.wav"
+  },
+  {
+    "Distancia Ultrasonico": "59",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1095.wav"
+  },
+  {
+    "Distancia Ultrasonico": "58",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1096.wav"
+  },
+  {
     "Distancia Ultrasonico": "57",
-    "Audio": "Red_Neuronal\\AudiosEntrenamiento\\audio_1.wav"
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1097.wav"
+  },
+  {
+    "Distancia Ultrasonico": "58",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1097.wav"
+  },
+  {
+    "Distancia Ultrasonico": "58",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1098.wav"
+  },
+  {
+    "Distancia Ultrasonico": "58",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1099.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1100.wav"
+  },
+  {
+    "Distancia Ultrasonico": "58",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1101.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1102.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1103.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1104.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1105.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1106.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1107.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1108.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1109.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1110.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1112.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1112.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1113.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1114.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1115.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1116.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1116.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1117.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1118.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1119.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1119.wav"
+  },
+  {
+    "Distancia Ultrasonico": "58",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1120.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1121.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1122.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1123.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1124.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1125.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1126.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1127.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1128.wav"
+  },
+  {
+    "Distancia Ultrasonico": "57",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1129.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1130.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1131.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1132.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1132.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1133.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1134.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1135.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1136.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1137.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1138.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1139.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1140.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1141.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1142.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1143.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1144.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1145.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1146.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1148.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1148.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1149.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1150.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1150.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1152.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1152.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1153.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1153.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1154.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1155.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1156.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1157.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1158.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1159.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1160.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1161.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1162.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1164.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1164.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1165.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1166.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1167.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1168.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1169.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1170.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1171.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1172.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1173.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1174.wav"
+  },
+  {
+    "Distancia Ultrasonico": "56",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1175.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1176.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1177.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1177.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1178.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1179.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1180.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1181.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1182.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1183.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1184.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1185.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1186.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1187.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1188.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1189.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1190.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1191.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1192.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1193.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1194.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1194.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1195.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1196.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1197.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1198.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1199.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1200.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1201.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1202.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1203.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1204.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1205.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1206.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1206.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1207.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1208.wav"
+  },
+  {
+    "Distancia Ultrasonico": "54",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1209.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1210.wav"
+  },
+  {
+    "Distancia Ultrasonico": "55",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1211.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1212.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1213.wav"
+  },
+  {
+    "Distancia Ultrasonico": "53",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_1214.wav"
   }
 ]

@@ -42,7 +42,7 @@ def iniciar_escucha_y_envio():
     - 'frecuencia_muestreo' debe ser un entero que represente la frecuencia de muestreo del audio.
 """
 def escucharSonido():
-    nombre_archivo = "Red_Neuronal\AudiosEntrenamiento"  # Nombre del archivo de salida
+    nombre_archivo = "Proyecto_ICE\Red_Neuronal\Audios"  # Nombre del archivo de salida
     duracion_segundos = 1  # Duración de la grabación en segundos
     frecuencia_muestreo = 44100  # Frecuencia de muestreo del audio
     grabar_audio(nombre_archivo, duracion_segundos, frecuencia_muestreo)
@@ -120,7 +120,8 @@ def grabar_audio(directorio, duracion_segundos, frecuencia_muestreo):
     nombre_archivo_global = os.path.join(directorio, f"audio_{num_archivos + 1}.wav")
 
     # Grabar audio desde el micrófono
-    audio = sd.rec(int(duracion_segundos * frecuencia_muestreo), samplerate=frecuencia_muestreo, channels=2, dtype='int16')
+    audio = sd.rec(int(duracion_segundos * frecuencia_muestreo), 
+                   samplerate=frecuencia_muestreo, channels=2, dtype='int16')
     sd.wait()
 
     # Guardar datos de audio en un archivo WAV
@@ -151,11 +152,11 @@ def callback_actualizar_tabla():
 
     # Actualizar la tabla en el archivo 'dataTable.json'
     dataManagement.escribir_json_tabla(disntanciaUltrrasonico=respuesta_global, nombreArchivoAudio=nombre_archivo_global,
-                        nombre_archivo='Desktop_App\Desktop_App\dataTable.json')
+                        nombre_archivo='Proyecto_ICE\Desktop_App\Desktop_App\dataTable.json')
 
     # Actualizar la tabla en el archivo 'TrainingData.json'
     dataManagement.datos_de_entrenamiento(disntanciaUltrrasonico=respuesta_global, nombreArchivoAudio=nombre_archivo_global,
-                        nombre_archivo='Red_Neuronal\TrainindData.json')
+                        nombre_archivo='Proyecto_ICE\Red_Neuronal\TrainindData.json')
 
 
 """
@@ -235,7 +236,7 @@ def inicializar_tabla(ventana):
 """
 def actualizar_tabla(tabla):
 
-    with open("Desktop_App\Desktop_App\dataTable.json", "r", encoding='utf-8') as archivo:
+    with open("Proyecto_ICE\Desktop_App\Desktop_App\dataTable.json", "r", encoding='utf-8') as archivo:
         datos = json.load(archivo)
 
     # Borrar todas las filas existentes en la tabla
