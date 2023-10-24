@@ -1,7 +1,22 @@
 [
   {
-    "Distancia Ultrasonico": "32",
+    "Distancia Ultrasonico": "24",
     "Estimacion IA": "NA",
-    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_4645.wav"
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_9607.wav"
+  },
+  {
+    "Distancia Ultrasonico": "24",
+    "Estimacion IA": "NA",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_9608.wav"
+  },
+  {
+    "Distancia Ultrasonico": "24",
+    "Estimacion IA": "NA",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_9609.wav"
+  },
+  {
+    "Distancia Ultrasonico": "24",
+    "Estimacion IA": "NA",
+    "Audio": "Proyecto_ICE\\Red_Neuronal\\Audios\\audio_9610.wav"
   }
 ]

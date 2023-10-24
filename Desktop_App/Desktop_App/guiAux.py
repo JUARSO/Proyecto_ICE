@@ -145,7 +145,7 @@ def iniciar_escucha_envio_automatico():
     global ejecucion_automatica
     if not ejecucion_automatica:
         ejecucion_automatica = True
-        num_iteraciones = 500
+        num_iteraciones = 700
           # Define el número de iteraciones que deseas realizar
 
         for i in range(num_iteraciones):
